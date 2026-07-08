@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hola, soy Sergio Regueiro 👋
+
+💻 Desarrollador Full Stack
+📍 A Coruña, Galicia, España
+
+## Tecnologías
+- Java
+- Spring Boot
+- React
+- PostgreSQL
+- Docker
+
+
+## Contacto
+- LinkedIn
+- Portfolio
+- Email
 
 <!--
 **TheSrm/TheSrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

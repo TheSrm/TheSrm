@@ -13,9 +13,9 @@
 
 
 ## Contacto
-- LinkedIn
-- Portfolio
-- Email
+
+- [LinkedIn](www.linkedin.com/in/sergio-regueiro-636b1b41a)
+- [Email](mailto:sergioregueiro12@gmail.com)
 
 <!--
 **TheSrm/TheSrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

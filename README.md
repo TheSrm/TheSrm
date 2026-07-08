@@ -1,6 +1,7 @@
 # Hola, soy Sergio Regueiro 👋
 
 💻 Desarrollador Full Stack
+
 📍 A Coruña, Galicia, España
 
 ## Tecnologías

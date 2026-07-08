@@ -10,6 +10,8 @@
 - React
 - PostgreSQL
 - Docker
+- Python
+- React
 
 
 ## Contacto
